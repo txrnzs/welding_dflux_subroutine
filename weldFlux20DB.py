@@ -19,7 +19,7 @@ class WeldFlux20DB(AFXDataDialog):
         # Construct the base class.
         #
 
-        AFXDataDialog.__init__(self, form, 'WeldFlux 2.0',
+        AFXDataDialog.__init__(self, form, 'WeldFlux 2.0-dev',
             self.OK|self.APPLY|self.CANCEL, DIALOG_ACTIONS_SEPARATOR)
             
 
